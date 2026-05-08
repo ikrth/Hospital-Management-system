@@ -1,4 +1,4 @@
-# 🏥 MediConnect — Hospital Management System
+# 🏥 MediConnect, A Hospital Management System
 
 A full-stack web application for managing hospital operations including appointments, patient records, doctor schedules, and AI-powered triage. Built with the MERN stack.
 
