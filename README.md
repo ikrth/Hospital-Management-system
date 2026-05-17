@@ -1,9 +1,9 @@
-# 🏥 MediConnect, A Hospital Management System
+# 🏥 MediSync, A Hospital Management System
 
 A full-stack web application for managing hospital operations including appointments, patient records, doctor schedules, and AI-powered triage. Built with the MERN stack.
 
-**Team:** Arbaz · Abdurrehman · Rafay · Rehan  
-**Course:** Web Technologies — Semester Project (NUST SEECS)
+**Team:** Arbaz · Abdurrehman · Rafay ·   
+
 
 ---
 
