@@ -203,4 +203,5 @@ All routes are prefixed with `/api/v1`
 | Arbaz | Backend & Database |
 | Abdurrehman | Frontend & UI |
 | Rafay | AI Integration & Services |
-| Rehan | Auth, Testing & DevOps |
+
+
